@@ -1,0 +1,14 @@
+button{
+    color: aqua;
+    background-color: rgb(197, 88, 41);
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    gap: 10px;
+    cursor: pointer;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
